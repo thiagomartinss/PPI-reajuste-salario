@@ -1,0 +1,24 @@
+{
+  "name": "ppi-reajuste-salario",
+  "version": "1.0.0",
+  "description": "Reajuste de salário com node, trabalho de PPI",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thiagomartinss/PPI-reajuste-salario.git"
+  },
+  "author": "Thiago Martins",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thiagomartinss/PPI-reajuste-salario/issues"
+  },
+  "homepage": "https://github.com/thiagomartinss/PPI-reajuste-salario#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
