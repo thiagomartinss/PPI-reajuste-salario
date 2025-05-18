@@ -32,13 +32,3 @@ CSS
 JavaScript
 Node
 Express
-
-# Obs
-Tentei colocar na vercel mas não consegui, para node com express exige um processo um pouco diferente do padrão
-tentei aplicar o que está na documentação da vercel https://vercel.com/guides/using-express-with-vercel
-mas infelizmente não consegui pois começou dar vários erros. 
-
-Como o senhor não explicou para nós como fazer para enviar um projeto node com express
-na vercel então estou te enviando apenas o link do github.
-
-https://github.com/thiagomartinss/PPI-reajuste-salario
